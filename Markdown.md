@@ -18,7 +18,7 @@ Citing that Article 370 had fed the flames of separatism, the BJP-ruled central 
 
 The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there have been increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
 
-The J&K region saw over 18,000 incidents and topped all the states over the period of 2016. However, most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region. These protests - both in the region and in Punjab - peaked in 2021. This is despite the 2-year lockdown in the Jammu and Kashmir region - which included the suspension of the internet - and the COVID-19 pandemic across the country. <br><br>
+The J&K region saw over 18,000 incidents from 2016 overall, the highest of all states. Most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region during the course of this period. These protests - both in the region and in Punjab - peaked in 2021. <br><br>
 
 
 !['Peaceful protests across the country from 2016-22'](/MAP.jpg) <br>
