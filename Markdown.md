@@ -7,7 +7,7 @@ FROM: Armed Conflict Location & Event Data Project (ACLED)<br><br>
 
 ## **MARKDOWN** <br><br>
 
-In this dataset collected by the ACLED, events such as peaceful protests, riots, insurgency, police violence, mob violence, have been recorded from 2016-present. They are collected via news reports. My goal in this analysis was to figure out any obvious trends. <br><br>
+In this dataset collected by the ACLED, events in India from 2016-2022 - such as peaceful protests, riots, insurgency, police violence, mob violence - has been recorded. They are collected via news reports. My goal in this analysis was to figure out any obvious trends. <br><br>
 
 1. Even though the data set looked clean, I opened it via OpenRefine. <br><br>
 2. I could individually use the cluster/facet functions to explore each column. <br><br>
