@@ -32,7 +32,7 @@ Peaceful protests in J&K occurred far more than the violent clashes.<br><br>
  
 !['J&K saw more peaceful protests than other incidents'](/three.jpg)<br><br>
 
-Despite the fact that a harsh lockdown was imposed and military rule by India intensified in the Kashmir region from 2019 onwards, peaceful protests continued to occur, and actually peaked in 2021. The lockdown was lifted on September 2021, more than 2 years after the imposition of lockdown on August 5, 2019. Yet, protests continued unabated during this entire period. <br><br>
+Peaceful protests in J&K continued to occur throughout the lockdown period and  peaked in 2021. The lockdown was lifted in September 2021, more than 2 years after the imposition of lockdown on August 5, 2019. <br><br>
 
 Since only a few months of 2022 have passed, the instances are lesser this year as of now. <br><br>
 
