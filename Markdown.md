@@ -26,7 +26,7 @@ The J&K region saw over 18,000 incidents and topped all the states over the peri
 Peaceful protests in J&K occurred far more than the violent clashes.<br><br>
 
  
-!['J&K saw more peaceful protests than other incidents'](/three.jpg)<br><br>
+!['J&K saw more peaceful protests than other incidents'](/three.png)<br><br>
 
 Despite the fact that a harsh lockdown was imposed and military rule by India intensified in the Kashmir region from 2019 onwards, peaceful protests continued to occur, and actually peaked in 2021. The lockdown was lifted on September 2021, more than 2 years after the imposition of lockdown on August 5, 2019. Yet, protests continued unabated during this entire period. <br><br>
 
