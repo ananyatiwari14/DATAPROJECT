@@ -93,6 +93,11 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 34. This infographic can be found at: https://infogram.com/chart-project-ananya-tiwari-1hxr4zxl737gq6y <br><br>
 35. For this story, I contacted the ACLED as well as Fahad Khan. ACLED responded but has not gotten back to me yet. Fahad Khan, who runs a publication in Kashmir, unfortunately, got arrested for his work. <br><br><br>
 
+**Reports**<br><br>
+
+* 87 civilians, 99 security personnel killed in J&K since Article 370 scrapped: https://www.theweek.in/news/india/2022/04/06/87-civilians-99-security-personnel-killed-in-jandk-since-article-370-scrapped.html <br><br>
+* 
+
 **About the Dataset** <br><br><br>
 
 This dataset contains riots that took place in India along with the actors and geolocations. This record ranges from 1997-to 2022 and has 50,000+ records. This data is collected from ACLED. The Armed Conflict Location & Event Data Project (ACLED) is a non-governmental organization specializing in disaggregated conflict data collection, analysis, and crisis mapping. ACLED codes the dates, actors, locations, fatalities, and types of all reported political violence and demonstration events around the world in real-time. As of 2022, ACLED has recorded more than 1.3 million individual events around the world. The ACLED team conducts analysis to describe, explore, and test conflict scenarios, making both data and analysis open for use by the public.<br><br><br>
