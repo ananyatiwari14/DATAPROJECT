@@ -82,29 +82,18 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
  
 12. I opened a pivot table for the main sheet and in ROWS - admin1, event_type | VALUES - eventy_type. <br><br>
  
-13. For J&K, it showed that though riots occurred a lot, peaceful protests were by far the most common occurrence. This data shows events from 2016-22 <br><br><br>
- 
-| **Jammu and Kashmir**       	| **Battles**                    	| **3468**  	|
-|-------------------------	|----------------------------	|-------	|
-|                         	| Explosions/Remote violence 	| 532   	|
-|                         	| Protests                   	| 10288 	|
-|                         	| Riots                      	| 2655  	|
-|                         	| Strategic developments     	| 336   	|
-|                         	| Violence against civilians 	| 826   	|
-| **Jammu and Kashmir Total** 	|                            	| **18105** 	|
- 
-<br><br><br>
+13. For J&K, it showed that though riots occurred a lot, peaceful protests were by far the most common occurrence. I copied this data to a new sheet and created a chart for it. This Google sheet can be found here: https://docs.google.com/spreadsheets/d/16rP6RiHiuwyh--3JHhkxnTAidpbkBL-4h227kYi8cPI/edit#gid=0 <br><br><br>
+
  
  
- 
-14. In 2019 the Indian government repealed Article 370 which granted a special status to J&K. This abrogation was followed by an intense statewide lockdown for months, including cutting off the internet. This was lifted, very slowly, only in 2021. Yet, protests peaked in 2021, showing that there seems to be a lot of activity in the state despite a harsh lockdown. Even during the lockdown data shows that peaceful events, as well as violence, continued. <br><br>
+14. In 2019 the Indian government repealed Article 370 which granted a special status to J&K. This abrogation was followed by an intense statewide lockdown for months, including cutting off the internet. This was lifted, very slowly, only in 2021. Yet, protests peaked in 2021, showing that there seems to be a lot of activity in the state despite the history of a harsh lockdown. Even during the lockdown data shows that peaceful events, as well as violence, continued. <br><br>
 15. To show this trend of events, I opened up another pivot table. <br><br>
-16. PIVOT TABLE: ROWS: sub_event_type, admin1 and year (in that order) and Values: Sub_event_type shows the “J&K Trends over the years” for Peaceful Protests.<br><br><br>
+16. PIVOT TABLE: ROWS: sub_event_type, admin1 and year (in that order) and Values: Sub_event_type shows the “J&K Trends over the years” for Peaceful Protests. I again pasted this data onto a new Google sheet to create a chart out of it. This can be found here: https://docs.google.com/spreadsheets/d/1buQk5UO_7WbkQaRb2v_QXUYcJ2m4b94Q3oQcgK6-3ws/edit#gid=0 <br><br><br>
  
  !['Peaceful protests in J&K over the years'](/numberthree.jpg)<br><br> <br>
  
  
-17. Peaceful protests reduced drastically in 2021 in J&K. <br><br>
+17. Peaceful protests peaked in 2021. <br><br>
  
 18. Creating a **QGIS map** illustration to show the intensity of peaceful protests in J&K and other states of India since 2016. <br><br>
 19. I copied “STATES EVENTS” onto a separate Google sheet, and downloaded it to the computer. I named this file “QGIS”. It can be found here: https://docs.google.com/spreadsheets/d/1e6hUkkGKETSvNupdqudCt46fSAIdtfG-2rsTz6zJNsc/edit?usp=sharing <br><br>
@@ -130,22 +119,22 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
  
  !['Peaceful protests over the years'](/Infogram.jpg)
  
-* The following chart shows that for all these states peaceful protests dropped significantly since 2021, during the height of the pandemic. However, they peaked in 2020-21. <br>
+* The following chart shows that for all these states except Uttarakhand peaceful protests heave been increasing over the years. <br>
 * In 2020 however, even as the pandemic was ongoing and a lockdown was imposed in J&K, protest movements continued J&K, Punjab. <br><br>
 * In Punjab, since 2020, farmers have been fighting and agitating against the 3 farm laws that were passed. In J&K, people have been protesting against the abrogation of Article 370, among other issues. <br><br>
 * The farmer movement was also present in Uttarakhand and thus the protests occurred there too. <br><br>
  
 ### **Conclusion** <br><br>
-**Since 2021, protest movements in  states have fallen sharply, even in the conflict region of J&K.** <br><br>
+**Protests peaked in the conflict region of J&K in 2021.** <br><br>
 34. This infographic can be found at: https://infogram.com/chart-project-ananya-tiwari-1hxr4zxl737gq6y <br><br>
-35. For this story, I contacted the ACLED as well as Fahad Khan. ACLED responded but has not gotten back to me yet. Fahad Khan, who runs a publication in Kashmir, unfortunately, got arrested for his work. <br><br><br>
+35. For this story, I contacted the ACLED as well as Fahad Khan. ACLED responded but has not gotten back to me yet. Fahad Khan, who runs a publication in Kashmir, unfortunately, got arrested for his work. I have contacted various other sources. <br><br><br>
  
 ##Writing the story <br><br>
  
-While writing the story, I realized that I more charts.<br><br>
+While writing the story, I realized that I needed more charts.<br><br>
  
 36. For each of the charts mentioned in the story, I copied and pasted the data from the main file to a separate sheet after working on it with a pivot table. I used Infogram to do this. <br><br>
-37. For example, for the last chart showing how peaceful protests have increased in general across various states, I opened a new pivot table, took that data to a separate Google sheet, and created a chart for it on Infogram.<br><br>
+37. For example, for the last chart showing how peaceful protests have increased in general across various states, I opened a new pivot table, took that data to a separate Google sheet, and created a chart for it on Infogram. The Google sheet can be found here: https://docs.google.com/spreadsheets/d/16R9_rre0ELC4T79nKPvLoSLI9xSxUrffz7l7Hfru4K4/edit#gid=0 <br><br>
 . !['Analyzing data using pivot tables’'](/six.jpg)
  
 **Reports**<br><br>
