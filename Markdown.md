@@ -96,7 +96,10 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 **Reports**<br><br>
 
 * 87 civilians, 99 security personnel killed in J&K since Article 370 scrapped: https://www.theweek.in/news/india/2022/04/06/87-civilians-99-security-personnel-killed-in-jandk-since-article-370-scrapped.html <br><br>
-* The Revocation of Kashmir’s Autonomy: High-Risk Hindutva Politics at Play : https://drive.google.com/file/d/1fSeMkJgVE8LLlzZyvdpItEG3Efiua1UP/view?usp=sharing <br> Medha. The Revocation of Kashmir’s Autonomy: High-Risk Hindutva Politics at Play. German Institute of Global and Area Studies (GIGA), 2019, http://www.jstor.org/stable/resrep24808. Accessed 28 Apr. 2022. <br><br>
+* 1,999 stone-pelting incidents in 2019 in J-K, 1,193 post abrogation of Article 370: https://economictimes.indiatimes.com/news/politics-and-nation/1999-stone-pelting-incidents-in-2019-in-j-k-1193-post-abrogation-of-article-370/articleshow/73129411.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst <br><br>
+* A New Phase of Militancy in Kashmir: Challenges for India: https://www.mei.edu/publications/new-phase-militancy-kashmir-challenges-india <br><br>
+* India’s Kashmir Conundrum: Before and After the Abrogation of Article 370: https://drive.google.com/file/d/1LlEJbbakb8mhkXZSM18D78hzdNnJMK3d/view?usp=sharing <br>
+Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and After the Abrogation of Article 370. US Institute of Peace, 2020, http://www.jstor.org/stable/resrep25405. Accessed 28 Apr. 2022.<br><br>
 * Communication blackout and media gag: Statesponsored restrictions in conflict-hit region of Jammu and Kashmir: https://drive.google.com/file/d/1W-amFIJgXwqW-GjXkChhBNDKtdwTQOFC/view?usp=sharing <br> Pandow, Bilal Ahmad. “Communication Blackout and Media Gag: State-Sponsored Restrictions in Conflict-Hit Region of Jammu and Kashmir.” Identities (Yverdon, Switzerland) ahead-of-print.ahead-of-print 1–20. Web. <br><br>
 * 
 
