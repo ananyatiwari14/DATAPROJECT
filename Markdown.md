@@ -25,9 +25,9 @@ For example, when I used the text facet on the Sub_event_type (which states what
 8. I opened a PIVOT TABLE.<br><br>
 
 9. Checking the states, Jammu & Kashmir and Punjab saw most activities occur during all the years, including peaceful protests. <br><br>
-10. With these facets, I could already see that the trends are the following: <br>
- *Most of these activities are peaceful protests <br>
- *These activities peaked in 2019 <br>
+10. With these facets, I could already see that the trends for all states are the following: <br>
+ *Most of these activities are peaceful protests. <br>
+ *These activities peaked in 2019. <br>
  *They have dropped significantly since, especially from 2020 onwards. <br><br>
 Since I did not need to clean up anything, I did not download this OpenRefine file and opened up this CSV on Google sheets for further analysis. <br><br>
 
