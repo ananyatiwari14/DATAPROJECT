@@ -17,16 +17,16 @@ The ACLED’s data shows that in regions such as J&K, Punjab, and Odisha, states
 The J&K region saw over 18,000 incidents and topped all the states over the period of 2016. However, most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region. These protests - both in the region and in Punjab - peaked in 2021. This is despite the 2-year lockdown in the Jammu and Kashmir region - which included the suspension of the internet - and the COVID-19 pandemic across the country. <br><br>
 
 
-!['Peaceful protests across the country from 2016-22'](/one.jpg) <br>
+!['Peaceful protests across the country from 2016-22'](/MAP.jpg) <br>
 (Darker areas saw more incidents, period 2016-22)<br><br>
 
 
 
-!['J&K saw most incidents overall'](/two.jpg)<br><br>
+!['J&K saw most incidents overall'](/two.png)<br><br>
 Peaceful protests in J&K occurred far more than the violent clashes.<br><br>
 
  
-!['J&K saw more peaceful protests than other incidents'](/three.png)<br><br>
+!['J&K saw more peaceful protests than other incidents'](/three.jpg)<br><br>
 
 Despite the fact that a harsh lockdown was imposed and military rule by India intensified in the Kashmir region from 2019 onwards, peaceful protests continued to occur, and actually peaked in 2021. The lockdown was lifted on September 2021, more than 2 years after the imposition of lockdown on August 5, 2019. Yet, protests continued unabated during this entire period. <br><br>
 
