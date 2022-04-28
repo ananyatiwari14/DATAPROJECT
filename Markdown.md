@@ -15,64 +15,36 @@ For example, when I used the text facet on the Sub_event_type (which states what
 
 
 
-Similarly, the text facet for the “year” column revealed the most occurrences happened in 2019. The occurrences peaked in 2019, and then dropped. 
-I opened the file on Google sheets. 
-I froze the rows displaying the headers. 
-I opened a PIVOT TABLE.
+Similarly, the text facet for the “year” column revealed the most occurrences happened in 2019. The occurrences peaked in 2019, and then dropped. <br>
+I opened the file on Google sheets. <br>
+I froze the rows displaying the headers. <br>
+I opened a PIVOT TABLE.<br>
 
-PIVOT TABLE
+Checking the states, Jammu & Kashmir and Punjab saw most such activities. <br>
+With these facets, I could already see that the trends are : most of these activities are peaceful protests, these activities peaked in 2019, and have dropped significantly since, especially from 2020 onwards. <br>
+Since I did not need to clean up anything, I did not download this OpenRefine file and opened up this CSV on Google sheets for further analysis. <br>
+After opening up Google Sheets, I froze the top row and opened a PIVOT TABLE. <br>
 
+I opened a pivot table for the main sheet and in ROWS - admin1, event_type | VALUES - eventy_type. <br>
 
+For J&K, it showed that though riots occurred a lot, peaceful protests were by far the most common occurrence. This data shows events from 2016-22 <br><br>
 
+| Jammu and Kashmir       	| Battles                    	| 3468  	|
+|-------------------------	|----------------------------	|-------	|
+|                         	| Explosions/Remote violence 	| 532   	|
+|                         	| Protests                   	| 10288 	|
+|                         	| Riots                      	| 2655  	|
+|                         	| Strategic developments     	| 336   	|
+|                         	| Violence against civilians 	| 826   	|
+| Jammu and Kashmir Total 	|                            	| 18105 	|
 
-
-
-Checking the states, Jammu & Kashmir and Punjab saw most such activities. 
-With these facets, I could already see that 3 trends are obvious: most of these activities are peaceful protests, they occur in states mainly having minority populations, and these activities peaked in 2019, and have dropped significantly since. 
-Since I did not need to clean up anything, I did not download this OpenRefine file and opened up this CSV on Google sheets for further analysis. 
-After opening up Google Sheets, I froze the top row and opened a PIVOT TABLE. 
-
-PIVOT TABLE
-
-
-
-I opened a pivot table for the main sheet and in ROWS - admin1, event_type | VALUES - eventy_type. 
-
-For J&K, it showed that though riots occurred a lot, peaceful protests were by far the most common occurrence. 
-
-Jammu and Kashmir
-Battles
-3468
-
-
-Explosions/Remote violence
-532
-
-
-Protests
-10288
-
-
-Riots
-2655
-
-
-Strategic developments
-336
-
-
-Violence against civilians
-826
-Jammu and Kashmir Total
-
-
-18105
+<br><br>
 
 
 
-Both the delimitation of J&K - when the once protectorate state was broken up into union territories - as well as COVID-19 may have led to the lessening of such activities. In 2019 the Indian government repealed Article 370 which granted a special status to J&K. This abrogation was followed by an intense statewide lockdown for months, including cutting off of the internet. This was lifted, very slowly, only in 2021. One of the reasons the events came down during this period is this. 
-To show this reduction of events, I opened up another pivot table. 
-PIVOT TABLE: ROWS: sub_event_type, admin1 and year (in that order) and Values: Sub_event_type shows the “J&K Trends over the years” for Peaceful Protests.
+In 2019 the Indian government repealed Article 370 which granted a special status to J&K. This abrogation was followed by an intense statewide lockdown for months, including cutting off of the internet. This was lifted, very slowly, only in 2021. One of the reasons the events came down during this period is this. <br>
+To show this reduction of events, I opened up another pivot table. <br>
+PIVOT TABLE: ROWS: sub_event_type, admin1 and year (in that order) and Values: Sub_event_type shows the “J&K Trends over the years” for Peaceful Protests.<br><br>
  
 
 
