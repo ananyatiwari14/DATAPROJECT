@@ -46,6 +46,7 @@ In 2019 the Indian government repealed Article 370 which granted a special statu
 To show this reduction of events, I opened up another pivot table. <br>
 PIVOT TABLE: ROWS: sub_event_type, admin1 and year (in that order) and Values: Sub_event_type shows the “J&K Trends over the years” for Peaceful Protests.<br><br>
  
+ !['Peaceful protests in J&K over the years'](/numberthree.jpg)<br><br> 
 
 
 These have also reduced, along with other events. 
