@@ -8,11 +8,15 @@ DATA FROM: Armed Conflict Location & Event Data Project (ACLED)<br><br>
  
 Jammu and Kashmir, which contains Kashmir, India’s contested state, witnessed increased peaceful protests as well as insurgency and violence since 2016. This trend peaked in 2021. The entire region was under a harsh lockdown for 2 years from 2019 when the central government revoked Article 370. <br><br>
 
+### History <br><br>
+
 After the Partition of the British-ruled subcontinent in 1947, Kashmir, which was and continues to be Muslim-dominated, was taken over by the new Indian government and military rule ensued. Article 370 of the Indian constitution gave the state (comprising also Jammu, which is Hindu-dominated) a special status. This gave the region the right to have a separate flag, state constitution, and internal governance constituting Kashmiri and Jammu locals in the government. Despite this, the state is conflict-ridden and ruled by the military. <br><br>
 
 Citing that Article 370 had fed the flames of separatism, the BJP-ruled central government revoked it and separated the regions into two Union Territories (administered directly by the central government, no elections) of Jammu and Kashmir, and Ladakh respectively. This revocation of August 2019 was followed by a stringent state-wide lockdown which lasted till 2021. Curfews, disconnection of the internet, and communication blockades were justified as a means to control violence. <br><br>
 
-The ACLED’s data shows that in regions such as J&K, Punjab, and Odisha, states have witnessed increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
+### Data shows increased protest activity in the region since 2016 <br><br>
+
+The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there have been increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
 
 The J&K region saw over 18,000 incidents and topped all the states over the period of 2016. However, most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region. These protests - both in the region and in Punjab - peaked in 2021. This is despite the 2-year lockdown in the Jammu and Kashmir region - which included the suspension of the internet - and the COVID-19 pandemic across the country. <br><br>
 
@@ -42,7 +46,7 @@ Intriguingly, the trend of rising peaceful protests in many Indian states - inst
 
 !['Protests trend similar to that of other states with lots of activity’](/five.jpg)<br><br>
 
-Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups XXXX. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
+Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
 
 
 
