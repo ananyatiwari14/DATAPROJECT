@@ -5,7 +5,7 @@ Dataset at: https://docs.google.com/spreadsheets/d/1xkkj_kNYFCDJ2xIho91ygNlUp186
 
 FROM: Armed Conflict Location & Event Data Project (ACLED)<br><br>
 
-MARKDOWN<br><br>
+## **MARKDOWN** <br><br>
 
 Even though the data set looked clean, I opened it via OpenRefine. <br>
 Open Refine helps in clustering data. With this, I could individually use the cluster/facet functions to explore each column. <br>
