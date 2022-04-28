@@ -7,21 +7,28 @@ FROM: Armed Conflict Location & Event Data Project (ACLED)<br><br>
 
 ## **MARKDOWN** <br><br>
 
+In this dataset collected by the ACLED, events such as peaceful protests, riots, insurgency, police violence, mob violence, have been recorded from 2016-present. They are collected via news reports. My goal in this analysis was to figure out any obvious trends. <br><br>
+
 1. Even though the data set looked clean, I opened it via OpenRefine. <br><br>
-Open Refine helps in clustering data. With this, I could individually use the cluster/facet functions to explore each column. <br><br>
-For example, when I used the text facet on the Sub_event_type (which states what form of event occurred such as mob violence, peaceful protests, etc), I could see for myself the various kinds of activity that have been recorded. I immediately noticed that “Peaceful protest” was recorded 74544 times, way higher than any other activity. Image below shows this:<br><br><br>
+2. I could individually use the cluster/facet functions to explore each column. <br><br>
+For example, when I used the text facet on the Sub_event_type (which states what form of event occurred such as mob violence, peaceful protests, etc), I could see for myself the various kinds of activity that have been recorded. <br><br> 
+3. I immediately noticed that “Peaceful protest” was recorded 74544 times, way higher than any other activity. Image below shows this:<br><br><br>
 
 !['Peaceful protests are highest'](/numberone.jpg) <br><br><br>
 
 
 
-Similarly, the text facet for the “year” column revealed the most occurrences happened in 2019. The occurrences peaked in 2019, and then dropped. <br><br>
-I opened the file on Google sheets. <br><br>
-I froze the rows displaying the headers. <br><br>
-I opened a PIVOT TABLE.<br><br>
+4. Similarly, the text facet for the “year” column revealed the most occurrences happened in 2019. <br><br>
+5. The occurrences peaked in 2019, and then dropped. <br><br>
+6. I opened the file on Google sheets. <br><br>
+7. I froze the rows displaying the headers. <br><br>
+8. I opened a PIVOT TABLE.<br><br>
 
-Checking the states, Jammu & Kashmir and Punjab saw most such activities. <br><br>
-With these facets, I could already see that the trends are : most of these activities are peaceful protests, these activities peaked in 2019, and have dropped significantly since, especially from 2020 onwards. <br><br>
+9. Checking the states, Jammu & Kashmir and Punjab saw most activities occur during all the years, including peaceful protests. <br><br>
+10. With these facets, I could already see that the trends are the following: <br>
+ *Most of these activities are peaceful protests <br>
+ *These activities peaked in 2019 <br>
+ *They have dropped significantly since, especially from 2020 onwards. <br><br>
 Since I did not need to clean up anything, I did not download this OpenRefine file and opened up this CSV on Google sheets for further analysis. <br><br>
 After opening up Google Sheets, I froze the top row and opened a PIVOT TABLE. <br><br>
 
