@@ -24,7 +24,7 @@ For example, when I used the text facet on the Sub_event_type (which states what
 7. I froze the rows displaying the headers. <br><br>
 8. I opened a PIVOT TABLE.<br><br>
 
-9. Checking the states, Jammu & Kashmir and Punjab saw most activities occur during all the years, including peaceful protests. <br><br>
+9. Checking the states, Jammu & Kashmir and Punjab saw most activities occur during all the years. However, Punjab saw most peaceful protests (over 11,000 versus over 9,000 in J&K), even though overall most activities occured in J&K. This can be explained as since 2020 farmers across Punjab were ferociously and relentlessly agitating against the 3 farm laws passed in July 2020. <br><br>
 10. With these facets, I could already see that the trends for all states are the following: <br>
  *Most of these activities are peaceful protests. <br>
  *These activities peaked in 2019. <br>
