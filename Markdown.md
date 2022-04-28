@@ -68,6 +68,8 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 24. I right-clicked the map layer again and went to its Properties, where in Symbology I selected the Categorize option for EVENTS. I chose the graduated range. <br><br>
 25. In the Layer section, I chose to label the states too. <br><br>
 
+!['States in India with most peaceful protests'](/MAP.jpg)<br><br> <br>
+
 26. The PDF version of this map is: https://drive.google.com/file/d/1mKUfn8rlUNSR83WPK3h0HeCFHIIQi3Pd/view?usp=sharing <br><br>
 
 27. Now, I wished to show how peaceful protests are progressing over the years since 2016. For this, I chose to create a line chart. For this I chose *Infogram*. <br><br>
