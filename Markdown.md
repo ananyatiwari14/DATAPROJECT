@@ -11,7 +11,7 @@ Even though the data set looked clean, I opened it via OpenRefine. <br>
 Open Refine helps in clustering data. With this, I could individually use the cluster/facet functions to explore each column. <br>
 For example, when I used the text facet on the Sub_event_type (which states what form of event occurred such as mob violence, peaceful protests, etc), I could see for myself the various kinds of activity that have been recorded. I immediately noticed that “Peaceful protest” was recorded 74544 times, way higher than any other activity. Image below shows this:<br><br>
 
-![Peaceful protests are highest](https://drive.google.com/file/d/1vh5Xt4P1BLVgWMdB0G3SnczODYv_4Su4/view?usp=sharing) <br>
+!['Peaceful protests are highest'](/numberone.jpg) <br><br>
 
 
 
