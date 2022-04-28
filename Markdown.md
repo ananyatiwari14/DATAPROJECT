@@ -101,8 +101,7 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 * India’s Kashmir Conundrum: Before and After the Abrogation of Article 370: https://drive.google.com/file/d/1LlEJbbakb8mhkXZSM18D78hzdNnJMK3d/view?usp=sharing <br>
 Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and After the Abrogation of Article 370. US Institute of Peace, 2020, http://www.jstor.org/stable/resrep25405. Accessed 28 Apr. 2022.<br><br>
 * Communication blackout and media gag: Statesponsored restrictions in conflict-hit region of Jammu and Kashmir: https://drive.google.com/file/d/1W-amFIJgXwqW-GjXkChhBNDKtdwTQOFC/view?usp=sharing <br> Pandow, Bilal Ahmad. “Communication Blackout and Media Gag: State-Sponsored Restrictions in Conflict-Hit Region of Jammu and Kashmir.” Identities (Yverdon, Switzerland) ahead-of-print.ahead-of-print 1–20. Web. <br><br>
-* 
 
-**About the Dataset** <br><br><br>
+**About the ACLED Dataset** <br><br><br>
 
 This dataset contains riots that took place in India along with the actors and geolocations. This record ranges from 1997-to 2022 and has 50,000+ records. This data is collected from ACLED. The Armed Conflict Location & Event Data Project (ACLED) is a non-governmental organization specializing in disaggregated conflict data collection, analysis, and crisis mapping. ACLED codes the dates, actors, locations, fatalities, and types of all reported political violence and demonstration events around the world in real-time. As of 2022, ACLED has recorded more than 1.3 million individual events around the world. The ACLED team conducts analysis to describe, explore, and test conflict scenarios, making both data and analysis open for use by the public.<br><br><br>
