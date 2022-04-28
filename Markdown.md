@@ -1,4 +1,4 @@
-# COVID-19 in 2021 LEADS TO SHARP FALL IN PEACEFUL PROTESTS IN INDIA
+# COVID-19 in 2021 LEADS TO SHARP FALL IN PEACEFUL PROTESTS IN INDIA, INCLUDING J&K
 ### ANANYA TIWARI <br><br>
 
 Dataset at: https://docs.google.com/spreadsheets/d/1xkkj_kNYFCDJ2xIho91ygNlUp186rOAyhxiNq_sr6AY/edit?usp=sharing <br><br>
@@ -50,16 +50,16 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 
 
 
-14. In 2019 the Indian government repealed Article 370 which granted a special status to J&K. This abrogation was followed by an intense statewide lockdown for months, including cutting off of the internet. This was lifted, very slowly, only in 2021. One of the reasons the events came down during this period is this. Yet, data shows that despite the lockdown, peaceful events as well as violence continued. <br><br>
+14. In 2019 the Indian government repealed Article 370 which granted a special status to J&K. This abrogation was followed by an intense statewide lockdown for months, including cutting off of the internet. This was lifted, very slowly, only in 2021. Yet, protests peaked in 2021, showing that there seems to be a lot of activity in the state despite a harsh lockdown. Even during the lockdown data shows that peaceful events as well as violence continued. <br><br>
 15. To show this trend of events, I opened up another pivot table. <br><br>
 16. PIVOT TABLE: ROWS: sub_event_type, admin1 and year (in that order) and Values: Sub_event_type shows the “J&K Trends over the years” for Peaceful Protests.<br><br><br>
  
  !['Peaceful protests in J&K over the years'](/numberthree.jpg)<br><br> <br>
 
 
-17. Peaceful protests too have reduced, along with other events. But they continued through 2019-20, when the lockdown was imposed. <br><br>
+17. Peaceful protests reduced drastically in 2021 in J&K. <br><br>
 
-18. Creating a **QGIS map** illustration to show that most peaceful protests and other events are occurring in J&K. <br><br>
+18. Creating a **QGIS map** illustration to show the intensity of peaceful protests in J&K and other states of India since 2016. <br><br>
 19. I copied “STATES EVENTS” onto a separate Google sheet, and downloaded it to the computer. I named this file “QGIS”. It can be found here: https://docs.google.com/spreadsheets/d/1e6hUkkGKETSvNupdqudCt46fSAIdtfG-2rsTz6zJNsc/edit?usp=sharing <br><br>
 20. I downloaded an Indian state shapefile from the web. <br><br>
 21. In QGIS, I added it as a new vector layer. <br><br>
@@ -85,10 +85,11 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 
 * The following chart shows that for all these states peaceful protests dropped significantly since 2021, during the height of the pandemic. <br>
 * In 2020 however, even as the pandemic was ongoing and a lockdown was imposed in J&K, protest movements peaked in J&K, Punjab. <br><br>
-* In Punjab, since 2020, farmers have been fighting and agitating against the 3 farm laws that were passed. <br><br>
-* The farmer movement was also present in Uttarakhand and thus the protests occured. <br><br>
-* However for Assam, since COVID-19, it has been a reduction. <br><br>
-##Conclusion: Since 2021, due to COVID-19, protest movements in these states with most events have fallen sharply. <br><br>
+* In Punjab, since 2020, farmers have been fighting and agitating against the 3 farm laws that were passed. In J&K, people have been protesting against the abrogation of Article 370, among other issues. <br><br>
+* The farmer movement was also present in Uttarakhand and thus the protests occured there too. <br><br>
+* However for Assam, since COVID-19, there has been a considerable reduction in events, including protests. <br><br>
+### **Conclusion** <br><br>
+**Since 2021, protest movements in  states have fallen sharply, even in the conflict region of J&K.** <br><br>
 34. This infographic can be found at: https://infogram.com/chart-project-ananya-tiwari-1hxr4zxl737gq6y <br><br>
 35. For this story, I contacted the ACLED as well as Fahad Khan. ACLED responded but has not gotten back to me yet. Fahad Khan, who runs a publication in Kashmir, unfortunately, got arrested for his work. <br><br><br>
 
