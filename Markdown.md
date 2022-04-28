@@ -10,9 +10,9 @@ Jammu and Kashmir, which contains Kashmir, India’s contested state, witnessed 
 
 ### History <br><br>
 
-After the Partition of the British-ruled subcontinent in 1947, Kashmir, which was and continues to be Muslim-dominated, was taken over by the new Indian government and military rule ensued. Article 370 of the Indian constitution gave the state (comprising also Jammu, which is Hindu-dominated) a special status. This gave the region the right to have a separate flag, state constitution, and internal governance constituting Kashmiri and Jammu locals in the government. Despite this, the state is conflict-ridden and ruled by the military. <br><br>
+After the Partition of the British-ruled subcontinent in 1947, Kashmir, which was and continues to be Muslim-dominated, was taken over by the new Indian government and military rule ensued. Article 370 of the Indian constitution gave the state (comprising also the region of Jammu, which is Hindu-dominated) a special status. This gave the region the right to have a separate flag, state constitution, and internal governance constituting Kashmiri and Jammu locals in the government. Despite this, Kashmir was conflict-ridden and ruled by the military. <br><br>
 
-Citing that Article 370 had fed the flames of separatism, the BJP-ruled central government revoked it and separated the regions into two Union Territories (administered directly by the central government, no elections) of Jammu and Kashmir, and Ladakh respectively. This revocation of August 2019 was followed by a stringent state-wide lockdown which lasted till 2021. Curfews, disconnection of the internet, and communication blockades were justified as a means to control violence. <br><br>
+Citing that Article 370 had fed the flames of separatism, the BJP-ruled central government revoked it and separated the regions into two Union Territories (administered directly by the central government only without an option of elections) of Jammu and Kashmir, and Ladakh respectively. This revocation of August 2019 was followed by a stringent state-wide lockdown which lasted till 2021. Curfews, disconnection of the internet, and communication blockades were justified as a means to control anticipated violence and unrest following this revocation. <br><br>
 
 ### Data shows increased protest activity in the region since 2016 <br><br>
 
