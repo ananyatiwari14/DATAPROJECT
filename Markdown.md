@@ -1,4 +1,4 @@
-# COVID-19 in 2021 LEADS TO SHARP FALL IN PEACEFUL PROTESTS IN INDIA, INCLUDING J&K
+# SHARP FALL IN PEACEFUL PROTESTS IN INDIA SINCE 2021, INCLUDING J&K
 ### ANANYA TIWARI <br><br>
 
 Dataset at: https://docs.google.com/spreadsheets/d/1xkkj_kNYFCDJ2xIho91ygNlUp186rOAyhxiNq_sr6AY/edit?usp=sharing <br><br>
