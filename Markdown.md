@@ -79,6 +79,8 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 32. In a new Infogram for a line chart, I imported this CSV. <br><br>
 33. The result is as follows:<br><br>
 
+ !['Peaceful protests over the years'](/Infogram.jpg)
+
 * The following chart shows that for all these states peaceful protests dropped significantly since 2021, during the height of the pandemic. <br>
 * In 2020 however, even as the pandemic was ongoing and a lockdown was imposed in J&K, protest movements peaked in J&K, Punjab. <br><br>
 * In Punjab, since 2020, farmers have been fighting and agitating against the 3 farm laws that were passed. <br><br>
