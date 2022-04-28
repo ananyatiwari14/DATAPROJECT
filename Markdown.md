@@ -129,7 +129,7 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 34. This infographic can be found at: https://infogram.com/chart-project-ananya-tiwari-1hxr4zxl737gq6y <br><br>
 35. For this story, I contacted the ACLED as well as Fahad Khan. ACLED responded but has not gotten back to me yet. Fahad Khan, who runs a publication in Kashmir, unfortunately, got arrested for his work. I have contacted various other sources. <br><br><br>
  
-##Writing the story <br><br>
+## Writing the story <br><br>
  
 While writing the story, I realized that I needed more charts.<br><br>
  
