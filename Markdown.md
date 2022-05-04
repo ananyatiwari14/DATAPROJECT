@@ -178,14 +178,14 @@ Since I did not need to clean up anything, I did not download this OpenRefine fi
 ### **Conclusion** <br><br>
 **Protests peaked in the conflict region of J&K in 2021.** <br><br>
 34. This infographic can be found at: https://infogram.com/chart-project-ananya-tiwari-1hxr4zxl737gq6y <br><br>
-35. For this story, I contacted the ACLED as well as Fahad Khan. ACLED responded but has not gotten back to me yet. Fahad Khan, who runs a publication in Kashmir, unfortunately, got arrested for his work. I have contacted various other sources. <br><br><br>
+
  
 ## Writing the story <br><br>
  
 While writing the story, I realized that I needed more charts.<br><br>
  
-36. For each of the charts mentioned in the story, I copied and pasted the data from the main file to a separate sheet after working on it with a pivot table. I used Infogram to do this. <br><br>
-37. For example, for the last chart showing how peaceful protests have increased in general across various states, I opened a new pivot table, took that data to a separate Google sheet, and created a chart for it on Infogram. The Google sheet can be found here: https://docs.google.com/spreadsheets/d/16R9_rre0ELC4T79nKPvLoSLI9xSxUrffz7l7Hfru4K4/edit#gid=0 <br><br>
+35. For each of the charts mentioned in the story, I copied and pasted the data from the main file to a separate sheet after working on it with a pivot table. I used Infogram to do this. <br><br>
+36. For example, for the last chart showing how peaceful protests have increased in general across various states, I opened a new pivot table, took that data to a separate Google sheet, and created a chart for it on Infogram. The Google sheet can be found here: https://docs.google.com/spreadsheets/d/16R9_rre0ELC4T79nKPvLoSLI9xSxUrffz7l7Hfru4K4/edit#gid=0 <br><br>
 . !['Analyzing data using pivot tables’'](/six.jpg)
  
 
