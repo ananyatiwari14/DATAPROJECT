@@ -57,7 +57,7 @@ This is reflected in the data on peaceful protests coming from the region, which
 
 !['J&K saw more peaceful protests peak in 2021, and these have been growing over the course of 6 years’](/four.jpg)<br><br>
 
-Both journalists say that despite Kashmir's culture of both peaceful and violent rebellion against the Indian state, since Article 370 there is massive fear in people. "After the abrogation it was very difficult to protest - yet people did it such as in Srinagar, which saw many protests. It was the first time (due to a 24-hour curfew, instead of the customary 12-hour curfew) that people simply could not leave their homes," said Zargar. <br><br>
+Both journalists say that despite Kashmir's culture of both peaceful and violent rebellion against the Indian state, since Article 370 there is massive fear in people. "After the abrogation it was very difficult to protest - yet people did it such as in Srinagar, which saw many protests. It was the first time (due to a 24-hour curfew, instead of the customary 12-hour curfew) that people simply could not leave their homes," said Zargar. Zargar said that many such protests also occured in Jammu, where the business owners were against the right of "outsiders" (non J&K people), newly granted after Article 370 was scrapped, of choosing to settle and conduct business there. Previously, Article 370 had made it impossible for non J&K residents to own land in the region. <br><br> 
 
 Now, the people are paralyzed. "The situation is quite disturbing and tough. Earlier, protests happened and the police let it go. Now, the police arrests and files FIRs against the protesters," said Shibli. People are disempowered and it is quite tragic, he added. <br><br>
 
@@ -71,7 +71,7 @@ Intriguingly, the trend of rising peaceful protests in many Indian states - inst
 
 !['Protests have increased in states with most reported incidents of this activity’](/six.jpg)<br><br>
 
-States such as J&K, Punjab, Assam, Tamil Nadu, Telangana, West Bengal, Uttar Pradesh, and others (except for Delhi and Haryana) have witnessed increasing protest activity recently, often peaking in 2019. <br><br><br>
+States such as J&K, Punjab, Assam, Tamil Nadu, Telangana, West Bengal, Uttar Pradesh, and others (except for Delhi and Haryana) have witnessed increasing protest activity recently, often peaking in 2019. They reduced in number in 2020 due to COVID-19 and in many states declined thereafter. Either the media is suddenly more vigilant and recording/reporting protest activity - or the people are truly showcasing their democratic right to protests more fiercely than they did in 2016. <br><br><br>
 
 !['Protests trend similar to that of other states with lots of activity’](/five.jpg)<br><br>
  
