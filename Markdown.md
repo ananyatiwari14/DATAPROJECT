@@ -18,13 +18,10 @@ Citing that Article 370 had fed the flames of separatism, the BJP-ruled central 
 
 The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there have been increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
 
-The J&K region saw over 18,000 incidents from 2016 overall, the highest of all states. Most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region during the course of this period. These protests - both in the region and in Punjab - peaked in 2021. <br><br>
-
-
 !['Peaceful protests across the country from 2016-22'](/MAP.jpg) <br>
 (Darker areas saw more incidents, period 2016-22)<br><br>
 
-
+The J&K region saw over 18,000 incidents from 2016 overall, the highest of all states. Most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region during the course of this period. These protests - both in the region and in Punjab - peaked in 2021. <br><br>
 
 !['J&K saw most incidents overall'](/two.png)<br><br>
 Peaceful protests in J&K occurred far more than the violent clashes.<br><br>
@@ -37,14 +34,39 @@ Peaceful protests in J&K continued to occur throughout the lockdown period and  
 Since only a few months of 2022 have passed, the instances are lesser this year as of now. <br><br>
 
 
-
-!['J&K saw more peaceful protests peak in 2021, and these have been growing over the course of 6 years’](/four.jpg)<br><br>
-
 The protests have been at a historic high and escalated immensely. Even though they show a slight dip during the lockdown period (2019-2021), they peaked in 2021, possibly due to the fact that the lockdown was lifted then. <br><br>
 
 Intriguingly, the trend of rising peaceful protests in many Indian states - instigated or led by a wide variety of people, including political parties, students, unions, etc - have shown an immense rise over the course of the years. This is especially true for those states with the most incidents, such as Punjab and Assam. Their trends are similar to what is seen in Jammu and Kashmir. <br><br>
 
-!['Protests trend similar to that of other states with lots of activity’](/five.jpg)<br><br>
+As per the data, most protests occured in the Jammu region as a whole, followed by the capital city of Kashmir - Srinagar. <br><br>
+
+| Jammu     	| 4130 	|
+|-----------	|------	|
+| Srinagar  	| 2833 	|
+| New Delhi 	| 2632 	|
+| Ludhiana  	| 2127 	|
+| Bathinda  	| 2087 	|<br><br>
+
+These protests in the Srinagar city for example, range from student, labor and community protests over a wide-range of issues. These issues include protests against encounter killings, pro-separationist protests, labor protests, protests against police forces, women-rights marches, protests calling attention to developmental issues, stone-pelting incidents by the people against patrolling police and/or military, politically inclined protests, protests on human rights issues, among others. <br><br>
+
+When the lockdown was imposed in the J&K region in August 2019 following the abrogation of Article 370, it led to a communication blockade. Internet was suspended, and, for the first time, a 24-hour curfew was imposed. Internet shutdowns have occured before in Kashmir, but the 24-hour lockdown and curfew was a new move, said Safwat Zargar, a Srinagar-based journalist writing for Indian media. He said that even before the abrogation, the forces had been clamping down on any form of separationist opposition for weeks. "Months before the lockdown was imposed, they had been clamping down in the Jamaat Islamia, Hurriyat, JKLF..." Moreover, the Public Safety Act was amended and now Kashmiris arrested could be sent to any jail across the country, which was another novel thing, he said. <br><br>
+
+Qazi Shibli was one such journalist there who was arrested before this lockdown was imposed. He remained in prison for 9-months. "I had broken a story for the Kashmiri (local) press 12-days before the abrogation that the government was going to do it. Before, nobody - not even the Kashmiri local officials and politicians, thought that they (Indian government) would do it," Shibli said. When he was released in April 2020, mid-COVID-19 lockdown, he resumed work, but a few months later he was arrested again for raising questions about an encounter killing by the forces. "I had raised doubts about this and later it turned out to be a fake encounter," he said. <br><br>
+
+Now, with the J&K region losing its special status and with no representation and elections, the people are immensely vulnerable and disempowered. <br><br>
+
+This is reflected in the data on peaceful protests coming from the region, which is seeing a major suppression of its local media. (Shibli is so worried that he has fled Kashmir.) Since 2016 protests increased in number, and saw a decline in 2020 when the lockdown was in place. In September 2021 the lockdown officially ended, but the protests peaked. But in 2022, the protests have lessened in number. <br><br>
+
+
+
+!['J&K saw more peaceful protests peak in 2021, and these have been growing over the course of 6 years’](/four.jpg)<br><br>
+
+Both journalists say that despite Kashmir's culture of both peaceful and violent rebellion against the Indian state, since Article 370 there is massive fear in people. "After the abrogation it was very difficult to protest - yet people did it such as in Srinagar, which saw many protests. It was the first time (due to a 24-hour curfew, instead of the customary 12-hour curfew) that people simply could not leave their homes," said Zargar. <br><br>
+
+Now, the people are paralyzed. "The situation is quite disturbing and tough. Earlier, protests happened and the police let it go. Now, the police arrests and files FIRs against the protesters," said Shibli. People are disempowered and it is quite tragic, he added. <br><br>
+
+## Protests are rising in India
+
 
 Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
 
@@ -53,6 +75,8 @@ Peaceful protests have been rising steadily over the years in India in many stat
 !['Protests have increased in states with most reported incidents of this activity’](/six.jpg)<br><br>
 
 States such as J&K, Punjab, Assam, Tamil Nadu, Telangana, West Bengal, Uttar Pradesh, and others (except for Delhi and Haryana) have witnessed increasing protest activity recently, often peaking in 2019. <br><br><br>
+
+!['Protests trend similar to that of other states with lots of activity’](/five.jpg)<br><br>
  
 ## **MARKDOWN** <br><br>
  
