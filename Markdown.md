@@ -101,7 +101,7 @@ Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and 
  
  It is possible that the peaceful protests recorded are more than the violent incidents due to police/military suppression. <br><br>
  
-**About the ACLED Dataset** <br><br><br>
+## **About the ACLED Dataset** <br><br>
  
 This dataset contains riots that took place in India along with the actors and geolocations. This record ranges from 1997-to 2022 and has 50,000+ records. This data is collected from ACLED. The Armed Conflict Location & Event Data Project (ACLED) is a non-governmental organization specializing in disaggregated conflict data collection, analysis, and crisis mapping. ACLED codes the dates, actors, locations, fatalities, and types of all reported political violence and demonstration events around the world in real-time. As of 2022, ACLED has recorded more than 1.3 million individual events around the world. The ACLED team conducts analysis to describe, explore, and test conflict scenarios, making both data and analysis open for use by the public.<br><br><br>
  
