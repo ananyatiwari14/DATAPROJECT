@@ -22,7 +22,7 @@ Citing that Article 370 had fed the flames of separatism, the BJP-ruled central 
 !['Peaceful protests across the country from 2016-22'](/MAP.jpg) <br>
 (Darker areas saw more incidents, period 2016-22)<br><br>
 
-The J&K region saw over 18,000 incidents from 2016 overall, the highest of all states. Most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region during the course of this period. These protests - both in the region and in Punjab - peaked in 2021. <br><br>
+The J&K region saw over 18,000 incidents - ranging from riots, police encounters, protests, abductions, etc - from 2016 overall, the highest of all states. Most incidents reported were peaceful protests. Only Punjab - which rebelled against the 3 farm laws from July 2020 - witnessed more protests than the region during the course of this period. These protests - both in the region and in Punjab - peaked in 2021. <br><br>
 
 !['J&K saw most incidents overall'](/two.png)<br><br>
 Peaceful protests in J&K occurred far more than the violent clashes.<br><br>
