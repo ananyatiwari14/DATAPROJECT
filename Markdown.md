@@ -16,7 +16,6 @@ Citing that Article 370 had fed the flames of separatism, the BJP-ruled central 
 
 ## Data shows increased protest activity in J&K since 2016 <br><br>
 
-The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there have been increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
 
 !['Peaceful protests across the country from 2016-22'](/MAP.jpg) <br>
 (Darker areas saw more incidents, period 2016-22)<br><br>
@@ -63,6 +62,7 @@ Now, the people are paralyzed. "The situation is quite disturbing and tough. Ear
 
 ## Protests are rising in India
 
+The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there have been increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
 
 Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
 
