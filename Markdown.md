@@ -39,7 +39,7 @@ As per the data, most protests occured in the Jammu region as a whole from 2016-
 | Srinagar  	| 2833 	|
 | New Delhi 	| 2632 	|
 | Ludhiana  	| 2127 	|
-| Bathinda  	| 2087 	|<br><br><br>
+| Bathinda  	| 2087 	| <br><br><br>
 
 These protests in the Srinagar city for example, range from student, labor and community protests over a wide-range of issues. These issues include protests against encounter killings, pro-separationist protests, labor protests, protests against police forces, women-rights marches, protests calling attention to developmental issues, stone-pelting incidents by the people against patrolling police and/or military, politically inclined protests, protests on human rights issues, among others. <br><br>
 
@@ -65,14 +65,44 @@ The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there h
 
 Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
 
-Intriguingly, the trend of rising peaceful protests in many Indian states - instigated or led by a wide variety of people, including political parties, students, unions, etc - have shown an immense rise over the course of the years. This is especially true for those states with the most incidents, such as Punjab and Assam. Their trends are similar to what is seen in Jammu and Kashmir. <br><br>
+This is especially true for those states with the most incidents, such as Punjab and Assam. Their trends are similar to what is seen in Jammu and Kashmir. <br><br>
 
 
 !['Protests have increased in states with most reported incidents of this activity’](/six.jpg)<br><br>
 
-States such as J&K, Punjab, Assam, Tamil Nadu, Telangana, West Bengal, Uttar Pradesh, and others (except for Delhi and Haryana) have witnessed increasing protest activity recently, often peaking in 2019. They reduced in number in 2020 due to COVID-19 and in many states declined thereafter. Either the media is suddenly more vigilant and recording/reporting protest activity - or the people are truly showcasing their democratic right to protests more fiercely than they did in 2016. <br><br><br>
+States such as J&K, Punjab, Assam, Tamil Nadu, Telangana, West Bengal, Uttar Pradesh, and others (except for Delhi and Haryana)  witnessed increasing protest activity , often peaking in 2019. They reduced in number in 2020 due to COVID-19 and in many states declined thereafter. Either the media is suddenly more vigilant and recording/reporting protest activity - or the people are truly showcasing their democratic right to protests more fiercely than they did in 2016. <br><br><br>
 
 !['Protests trend similar to that of other states with lots of activity’](/five.jpg)<br><br>
+ 
+ **Reports**<br><br>
+ 
+* 87 civilians, 99 security personnel killed in J&K since Article 370 scrapped: https://www.theweek.in/news/india/2022/04/06/87-civilians-99-security-personnel-killed-in-jandk-since-article-370-scrapped.html <br><br>
+* 1,999 stone-pelting incidents in 2019 in J-K, 1,193 post abrogation of Article 370: https://economictimes.indiatimes.com/news/politics-and-nation/1999-stone-pelting-incidents-in-2019-in-j-k-1193-post-abrogation-of-article-370/articleshow/73129411.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst <br><br>
+* A New Phase of Militancy in Kashmir: Challenges for India: https://www.mei.edu/publications/new-phase-militancy-kashmir-challenges-india <br><br>
+* India’s Kashmir Conundrum: Before and After the Abrogation of Article 370: https://drive.google.com/file/d/1LlEJbbakb8mhkXZSM18D78hzdNnJMK3d/view?usp=sharing <br>
+Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and After the Abrogation of Article 370. US Institute of Peace, 2020, http://www.jstor.org/stable/resrep25405. Accessed 28 Apr. 2022.<br><br>
+* Communication blackout and media gag: State-sponsored restrictions in the conflict-hit region of Jammu and Kashmir: https://drive.google.com/file/d/1W-amFIJgXwqW-GjXkChhBNDKtdwTQOFC/view?usp=sharing <br> Pandow, Bilal Ahmad. “Communication Blackout and Media Gag: State-Sponsored Restrictions in Conflict-Hit Region of Jammu and Kashmir.” Identities (Yverdon, Switzerland) ahead-of-print. ahead-of-print 1–20. Web. <br><br>
+ 
+ ## Future story ideas from this dataset <br><br>
+ 
+ There are many stories that can be further pursued using this dataset:<br><br>
+ * The future trajectory of peaceful protests and other incidents in a region without Article 370. <br><br>
+ * Rise in protest activity across states such as Assam, Odisha, Tamil Nadu, Maharashtra - all these states except for Assam are ruled by non-BJP (which rules the Center) parties. <br><br>
+ * Analyzing union-led and student-led protests across the country: what are the major issues and how does this trend compare with previous decades. <br><br>
+ * Analyzing riot-activity across the states and comparing it to previous decades. <br><br>
+ * What is happening in Uttar Pradesh? This is India's most populous state, led by an ultra-right Hindu nationalist government. Why are protests and other activities increasing over the course of the years? What are the major issues? <br><br>
+ 
+ ## Sourcing <br><br>
+ 
+ As journalists reporting on Kashmir and also belonging to the region, both Shibli and Zargar were perfect for understanding the ground reality as it occured during these past few years. Thus, they are important to the story. <br><br>
+ 
+ ## Caveats <br><br>
+ 
+ It is possible that the peaceful protests recorded are more than the violent incidents due to police/military suppression. <br><br>
+ 
+**About the ACLED Dataset** <br><br><br>
+ 
+This dataset contains riots that took place in India along with the actors and geolocations. This record ranges from 1997-to 2022 and has 50,000+ records. This data is collected from ACLED. The Armed Conflict Location & Event Data Project (ACLED) is a non-governmental organization specializing in disaggregated conflict data collection, analysis, and crisis mapping. ACLED codes the dates, actors, locations, fatalities, and types of all reported political violence and demonstration events around the world in real-time. As of 2022, ACLED has recorded more than 1.3 million individual events around the world. The ACLED team conducts analysis to describe, explore, and test conflict scenarios, making both data and analysis open for use by the public.<br><br><br>
  
 ## **MARKDOWN** <br><br>
  
@@ -157,35 +187,7 @@ While writing the story, I realized that I needed more charts.<br><br>
 37. For example, for the last chart showing how peaceful protests have increased in general across various states, I opened a new pivot table, took that data to a separate Google sheet, and created a chart for it on Infogram. The Google sheet can be found here: https://docs.google.com/spreadsheets/d/16R9_rre0ELC4T79nKPvLoSLI9xSxUrffz7l7Hfru4K4/edit#gid=0 <br><br>
 . !['Analyzing data using pivot tables’'](/six.jpg)
  
-**Reports**<br><br>
- 
-* 87 civilians, 99 security personnel killed in J&K since Article 370 scrapped: https://www.theweek.in/news/india/2022/04/06/87-civilians-99-security-personnel-killed-in-jandk-since-article-370-scrapped.html <br><br>
-* 1,999 stone-pelting incidents in 2019 in J-K, 1,193 post abrogation of Article 370: https://economictimes.indiatimes.com/news/politics-and-nation/1999-stone-pelting-incidents-in-2019-in-j-k-1193-post-abrogation-of-article-370/articleshow/73129411.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst <br><br>
-* A New Phase of Militancy in Kashmir: Challenges for India: https://www.mei.edu/publications/new-phase-militancy-kashmir-challenges-india <br><br>
-* India’s Kashmir Conundrum: Before and After the Abrogation of Article 370: https://drive.google.com/file/d/1LlEJbbakb8mhkXZSM18D78hzdNnJMK3d/view?usp=sharing <br>
-Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and After the Abrogation of Article 370. US Institute of Peace, 2020, http://www.jstor.org/stable/resrep25405. Accessed 28 Apr. 2022.<br><br>
-* Communication blackout and media gag: State-sponsored restrictions in the conflict-hit region of Jammu and Kashmir: https://drive.google.com/file/d/1W-amFIJgXwqW-GjXkChhBNDKtdwTQOFC/view?usp=sharing <br> Pandow, Bilal Ahmad. “Communication Blackout and Media Gag: State-Sponsored Restrictions in Conflict-Hit Region of Jammu and Kashmir.” Identities (Yverdon, Switzerland) ahead-of-print. ahead-of-print 1–20. Web. <br><br>
- 
- ## Future story ideas from this dataset <br><br>
- 
- There are many stories that can be further pursued using this dataset:<br><br>
- * The future trajectory of peaceful protests and other incidents in a region without Article 370. <br><br>
- * Rise in protest activity across states such as Assam, Odisha, Tamil Nadu, Maharashtra - all these states except for Assam are ruled by non-BJP (which rules the Center) parties. <br><br>
- * Analyzing union-led and student-led protests across the country: what are the major issues and how does this trend compare with previous decades. <br><br>
- * Analyzing riot-activity across the states and comparing it to previous decades. <br><br>
- * What is happening in Uttar Pradesh? This is India's most populous state, led by an ultra-right Hindu nationalist government. Why are protests and other activities increasing over the course of the years? What are the major issues? <br><br>
- 
- ## Sourcing <br><br>
- 
- As journalists reporting on Kashmir and also belonging to the region, both Shibli and Zargar were perfect for understanding the ground reality as it occured during these past few years. Thus, they are important to the story. <br><br>
- 
- ## Caveats <br><br>
- 
- It is possible that the peaceful protests recorded are more than the violent incidents due to police/military suppression. <br><br>
- 
-**About the ACLED Dataset** <br><br><br>
- 
-This dataset contains riots that took place in India along with the actors and geolocations. This record ranges from 1997-to 2022 and has 50,000+ records. This data is collected from ACLED. The Armed Conflict Location & Event Data Project (ACLED) is a non-governmental organization specializing in disaggregated conflict data collection, analysis, and crisis mapping. ACLED codes the dates, actors, locations, fatalities, and types of all reported political violence and demonstration events around the world in real-time. As of 2022, ACLED has recorded more than 1.3 million individual events around the world. The ACLED team conducts analysis to describe, explore, and test conflict scenarios, making both data and analysis open for use by the public.<br><br><br>
+
  
  
 
