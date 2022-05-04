@@ -6,7 +6,7 @@ Dataset at: https://docs.google.com/spreadsheets/d/1xkkj_kNYFCDJ2xIho91ygNlUp186
  
 DATA FROM: Armed Conflict Location & Event Data Project (ACLED)<br><br>
  
-Jammu and Kashmir, which contains Kashmir, India’s contested state, witnessed increased peaceful protests as well as insurgency and violence since 2016. This trend peaked in 2021. The entire region was under a harsh lockdown for 2 years from 2019 when the central government revoked Article 370. <br><br>
+Jammu and Kashmir, which contains Kashmir, a contested territory, witnessed increased peaceful protests as well as insurgency and violence since 2016. This trend peaked in 2021. The entire region was under a harsh lockdown for 2 years from 2019 when the central government revoked Article 370. <br><br>
 
 ## History <br><br>
 
