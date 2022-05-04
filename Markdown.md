@@ -166,6 +166,23 @@ While writing the story, I realized that I needed more charts.<br><br>
 Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and After the Abrogation of Article 370. US Institute of Peace, 2020, http://www.jstor.org/stable/resrep25405. Accessed 28 Apr. 2022.<br><br>
 * Communication blackout and media gag: State-sponsored restrictions in the conflict-hit region of Jammu and Kashmir: https://drive.google.com/file/d/1W-amFIJgXwqW-GjXkChhBNDKtdwTQOFC/view?usp=sharing <br> Pandow, Bilal Ahmad. “Communication Blackout and Media Gag: State-Sponsored Restrictions in Conflict-Hit Region of Jammu and Kashmir.” Identities (Yverdon, Switzerland) ahead-of-print. ahead-of-print 1–20. Web. <br><br>
  
+ ## Future story ideas from this dataset <br><br>
+ 
+ There are many stories that can be further pursued using this dataset:<br><br>
+
+ * Rise in protest activity across states such as Assam, Odisha, Tamil Nadu, Maharashtra - all these states except for Assam are ruled by non-BJP (which rules the Center) parties. <br><br>
+ * Analyzing union-led and student-led protests across the country: what are the major issues and how does this trend compare with previous decades. <br><br>
+ * Analyzing riot-activity across the states and comparing it to previous decades. <br><br>
+ * What is happening in Uttar Pradesh? This is India's most populous state, led by an ultra-right Hindu nationalist government. Why are protests and other activities increasing over the course of the years? What are the major issues? <br><br>
+ 
+ ## Sourcing <br><br>
+ 
+ As journalists reporting on Kashmir and also belonging to the region, both Shibli and Zargar were perfect for understanding the ground reality as it occured during these past few years. Thus, they are important to the story. <br><br>
+ 
+ ## Caveats <br><br>
+ 
+ It is possible that the peaceful protests recorded are more than the violent incidents due to police/military suppression. <br><br>
+ 
 **About the ACLED Dataset** <br><br><br>
  
 This dataset contains riots that took place in India along with the actors and geolocations. This record ranges from 1997-to 2022 and has 50,000+ records. This data is collected from ACLED. The Armed Conflict Location & Event Data Project (ACLED) is a non-governmental organization specializing in disaggregated conflict data collection, analysis, and crisis mapping. ACLED codes the dates, actors, locations, fatalities, and types of all reported political violence and demonstration events around the world in real-time. As of 2022, ACLED has recorded more than 1.3 million individual events around the world. The ACLED team conducts analysis to describe, explore, and test conflict scenarios, making both data and analysis open for use by the public.<br><br><br>
