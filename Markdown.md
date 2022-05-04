@@ -55,7 +55,7 @@ This is reflected in the data on peaceful protests coming from the region, which
 
 !['J&K saw more peaceful protests peak in 2021, and these have been growing over the course of 6 years’](/four.jpg)<br><br>
 
-Both journalists say that despite Kashmir's culture of both peaceful and violent rebellion against the Indian state, since Article 370 there is massive fear in people. "After the abrogation it was very difficult to protest - yet people did it such as in Srinagar, which saw many protests. It was the first time (due to a 24-hour curfew, instead of the customary 12-hour curfew) that people simply could not leave their homes," said Zargar. Zargar said that many such protests also occured in Jammu, where the business owners were against the newly given right of "outsiders" (non J&K people) of settling in the region and conducting business there. Previously, Article 370 had made it impossible for non J&K residents to own land in the region - now this is no longer a reality and has stoked immense unease in residents of both Jammu and Kashmir. <br><br> 
+Both journalists say that despite Kashmir's culture of both peaceful and violent rebellion against the Indian state, since the revocation Article 370 there is massive fear in people. "After the abrogation it was very difficult to protest - yet people did it such as in Srinagar, which saw many protests. It was the first time (due to a 24-hour curfew, instead of the customary 12-hour curfew) that people simply could not leave their homes," said Zargar. Zargar said that many such protests also occured in Jammu, where the business owners were against the newly given right of "outsiders" (non J&K people) of settling in the region and conducting business there. Previously, Article 370 had made it impossible for non J&K residents to own land in the region - now this is no longer a reality and has stoked immense unease in residents of both Jammu and Kashmir. <br><br> 
 
 People of Kashmir are paralyzed with fear. "The situation is quite disturbing and tough. Earlier, protests happened and the police let it go. Now, the police arrests and files FIRs against the protesters," said Shibli, citing how recently people were protesting against the closure of a mosque in Srinagar known for political activities, only to find that more than 15 of the protesters were arrested the next day. People are disempowered and it is quite tragic, he added. <br><br>
 
@@ -169,7 +169,7 @@ Lalwani, Sameer P., and Gillian Gayner. India’s Kashmir Conundrum: Before and 
  ## Future story ideas from this dataset <br><br>
  
  There are many stories that can be further pursued using this dataset:<br><br>
-
+ * The future trajectory of peaceful protests and other incidents in a region without Article 370. <br><br>
  * Rise in protest activity across states such as Assam, Odisha, Tamil Nadu, Maharashtra - all these states except for Assam are ruled by non-BJP (which rules the Center) parties. <br><br>
  * Analyzing union-led and student-led protests across the country: what are the major issues and how does this trend compare with previous decades. <br><br>
  * Analyzing riot-activity across the states and comparing it to previous decades. <br><br>
