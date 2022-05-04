@@ -34,10 +34,6 @@ Peaceful protests in J&K continued to occur throughout the lockdown period and  
 Since only a few months of 2022 have passed, the instances are lesser this year as of now. <br><br>
 
 
-The protests have been at a historic high and escalated immensely. Even though they show a slight dip during the lockdown period (2019-2021), they peaked in 2021, possibly due to the fact that the lockdown was lifted then. <br><br>
-
-Intriguingly, the trend of rising peaceful protests in many Indian states - instigated or led by a wide variety of people, including political parties, students, unions, etc - have shown an immense rise over the course of the years. This is especially true for those states with the most incidents, such as Punjab and Assam. Their trends are similar to what is seen in Jammu and Kashmir. <br><br>
-
 As per the data, most protests occured in the Jammu region as a whole, followed by the capital city of Kashmir - Srinagar. <br><br>
 
 | Jammu     	| 4130 	|
@@ -70,6 +66,7 @@ Now, the people are paralyzed. "The situation is quite disturbing and tough. Ear
 
 Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
 
+Intriguingly, the trend of rising peaceful protests in many Indian states - instigated or led by a wide variety of people, including political parties, students, unions, etc - have shown an immense rise over the course of the years. This is especially true for those states with the most incidents, such as Punjab and Assam. Their trends are similar to what is seen in Jammu and Kashmir. <br><br>
 
 
 !['Protests have increased in states with most reported incidents of this activity’](/six.jpg)<br><br>
