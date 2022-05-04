@@ -14,7 +14,7 @@ After the Partition of the British-ruled subcontinent in 1947, Kashmir, which wa
 
 !['Region of Jammu, Kashmir & Ladakh'](/jkmap.png)<br><brr>
 
-Citing that Article 370 had fed the flames of separatism, the BJP-ruled central government revoked it and separated the regions into two Union Territories (administered directly by the central government only without an option of elections) of Jammu and Kashmir, and Ladakh respectively. This revocation of August 2019 was followed by a stringent state-wide lockdown which lasted till Septemeber 2021. Curfews, disconnection of the internet, and communication blockades were justified as a means to control anticipated violence and unrest following this revocation. <br><br>
+Citing that Article 370 had fed the flames of separatism, the BJP-ruled central government revoked it and separated the regions into two Union Territories (administered directly by the central government only, without an option of elections) of Jammu and Kashmir, and Ladakh respectively. This revocation of August 2019 was followed by a stringent state-wide lockdown which lasted till September 2021. Curfews, disconnection of the internet, and communication blockades were justified as a means to control anticipated violence and unrest following this revocation. <br><br>
 
 ## Data shows increased protest activity in J&K since 2016 <br><br>
 
