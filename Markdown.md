@@ -10,7 +10,7 @@ Jammu and Kashmir, which contains Kashmir, a contested territory, witnessed incr
 
 ## History <br><br>
 
-After the Partition of the British-ruled subcontinent in 1947, Kashmir, which was and continues to be Muslim-dominated, was taken over by the new Indian government and military rule ensued. Article 370 of the Indian constitution gave the state (comprising also the region of Jammu, which is Hindu-dominated, and Ladakh, which is sparsely populated with Hindus, Muslims and Buddhists) a special status. This gave the region the right to have a separate flag, state constitution, and internal governance constituting Kashmiri and Jammu locals in the government. Despite this, Kashmir was conflict-ridden and ruled by the military. <br><br>
+After the Partition of the British-ruled subcontinent in 1947, Kashmir, which was and continues to be Muslim-dominated, was taken over by the new Indian government and military rule ensued. Article 370 of the Indian constitution gave the state (comprising also of the regions of Jammu, which is Hindu-dominated, and Ladakh, which is sparsely populated with Hindus, Muslims and Buddhists) a special status. This gave the region the right to have a separate flag, state constitution, and internal governance constituting Kashmiri and Jammu locals in the government. Despite this, Kashmir was conflict-ridden and ruled by the military. <br><br>
 
 !['Region of Jammu, Kashmir & Ladakh'](/jkmap.png)<br><brr>
 
