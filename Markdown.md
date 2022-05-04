@@ -61,9 +61,10 @@ People of Kashmir are paralyzed with fear. "The situation is quite disturbing an
 
 ## Protests are rising in India
 
+Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
+ 
 The ACLED’s data shows that in states such as J&K, Punjab, and Odisha, there have been increasing riots, violence, and peaceful protests since 2016. The data tracks incidents of arrests, armed clashes, mob violence, peaceful protests, violent demonstrations, excessive force against protesters, and many others.<br><br>
 
-Peaceful protests have been rising steadily over the years in India in many states, though the causes are multiple, and participants are diverse groups including those of opposing political parties, unions and student groups. Over 74,000 overall peaceful protests were recorded from 2016 onwards. <br><br>
 
 This is especially true for those states with the most incidents, such as Punjab and Assam. Their trends are similar to what is seen in Jammu and Kashmir. <br><br>
 
