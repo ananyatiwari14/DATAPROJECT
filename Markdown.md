@@ -28,12 +28,9 @@ Peaceful protests in J&K occurred far more than the violent clashes.<br><br>
  
 !['J&K saw more peaceful protests than other incidents'](/three.jpg)<br><br>
 
-Peaceful protests in J&K continued to occur throughout the lockdown period and  peaked in 2021. The lockdown was lifted in September 2021, more than 2 years after the imposition of lockdown on August 5, 2019. <br><br>
-
-Since only a few months of 2022 have passed, the instances are lesser this year as of now. <br><br>
 
 
-As per the data, most protests occured in the Jammu region as a whole, followed by the capital city of Kashmir - Srinagar. <br><br>
+As per the data, most protests occured in the Jammu region as a whole from 2016-22, followed by the capital city of Kashmir - Srinagar. <br><br>
 
 | Jammu     	| 4130 	|
 |-----------	|------	|
